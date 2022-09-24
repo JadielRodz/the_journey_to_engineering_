@@ -1,18 +1,18 @@
 
 # SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: Jadiel Rodriguez
+description: From 0 - Full Stack.
 
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
-theme_color: black
+social_username: JDLRODZ
+github_repo: the_journey_to_engineering_ # the GitHub repo name for your project
+github_username: JadielRodz
+theme_color: yellow
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
-baseurl: '/the_journey_to_engineering_'
+baseurl: '/JDLStatic'
 
 # Defaults
 
